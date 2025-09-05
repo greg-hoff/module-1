@@ -4,8 +4,4 @@
     3a. vi menu commands - :w - write (save), :wq - write-quit, :q - quit
 4. git init - initialize directory #note# to initialize new repo with 'main' as default, must use git init -b main
 5. git status - show non-commited changes to repo
-5. gitstatus - show non-commited changes to repo
-5. gitstatus - show non-commited changes to repo
-5. gitstatus - show non-commited changes to repo
-5. gitstatus - show non-commited changes to repo
 

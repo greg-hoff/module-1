@@ -7,5 +7,5 @@
 6. git commit - 'saves' changes. Records changes to repo. Tracks all historical changes so an accurate view of the project may be generated for any point in time.
     6a. git commit -a - auto stages modified files to be committed 
     6b. git commit -am 'message' - auto stages and adds message
-
+7. git checkout -b new-branch  - creates a new branch off of main/master. used for team collab, de-risk altering main/master
 

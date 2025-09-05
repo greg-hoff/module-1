@@ -9,3 +9,5 @@
     6b. git commit -am 'message' - auto stages and adds message
 7. git checkout -b new-branch  - creates a new branch off of main/master. used for team collab, de-risk altering main/master
 8. git merge --ff-only <branch> - merges branch changes to main/master. ff merge only avaialbe if main/master is has no new commits after <branch> is created. ff creates a more linear workflow, easier to view history
+9. git pull origin branch - copies/merges updates from the specified branch to a different branch. ensures you work from the current project and may make changes in paralell
+

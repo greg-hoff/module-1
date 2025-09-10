@@ -1,5 +1,5 @@
 1. vi commands = i: insert mode (for editing), esc: end editing/open menu,
-    1a. vi menu commands - :w - write (save), :wq - write-quit, :q - quit
+    1a. vi menu commands - :w = write (save), :wq = write-quit, :q = quit, :set list = enter list mode, helps with line spacing for lists
 2. git init = initialize directory #note# to initialize new repo with 'main' as default, must use git init -b main
 3. git status = show non-commited changes to repo
 4. git commit = 'saves' changes. Records changes to repo. Tracks all historical changes so an accurate view of the project may be generated for any point in time.
@@ -22,4 +22,5 @@ linux commands
     rm -rf = forcefully removes a directory and contents
 13. pwd = print working directory, shows current directory
 14. cat [filename] = show contents of file
-15. 
+15. find -name [filename] = search for file in directory with filename
+    find -type [type] = search for files in directory by filetype 

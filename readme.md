@@ -10,14 +10,18 @@
 7. git pull origin branch = copies/merges updates from the specified branch to a different branch. ensures you work from the current project and may make changes in paralell
 
 linux commands
+
 8. ls = lists contents of a directory
+
     ls -a = lists all files
+
     ls -l = provides list with file details
+
 9. mkdir [directory name] = make directory
 10. cd [directory name] = change directory
 11. touch [filename] = create a new file
 12. rm [filename] = deletes a file
     rm -r = recursively removes a directory and contents
     rm -rf = forcefully removes a directory and contents
-13.
+13. 
 14. 

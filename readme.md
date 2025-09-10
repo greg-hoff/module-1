@@ -20,5 +20,5 @@ linux commands
 12. rm [filename] = deletes a file
     rm -r = recursively removes a directory and contents
     rm -rf = forcefully removes a directory and contents
-13. 
-14. 
+13. pwd = print working directory, shows current directory 
+l4. 

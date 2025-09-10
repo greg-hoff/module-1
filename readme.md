@@ -12,11 +12,8 @@
 linux commands
 
 8. ls = lists contents of a directory
-
     ls -a = lists all files
-
-    ls -l = provides list with file details
-
+    ls -l = provides list with file detail
 9. mkdir [directory name] = make directory
 10. cd [directory name] = change directory
 11. touch [filename] = create a new file

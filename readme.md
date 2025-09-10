@@ -19,4 +19,5 @@ linux commands
 12. rm [filename] = deletes a file
     rm -r = recursively removes a directory and contents
     rm -rf = forcefully removes a directory and contents
-13. 
+13.
+14. 
